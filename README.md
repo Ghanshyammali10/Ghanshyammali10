@@ -112,11 +112,19 @@ motto         : "Ship fast. Learn from it. Build better." 🚀
 
 ## 🏆 Hackathons & Achievements
 
-| 🏛️ Event | 🔨 What I Built | 🥇 Outcome |
-|---|---|---|
-| SSGMCE Shegaon Hackathon | AR-Based Virtual Try-On (FitVision) | Appreciated by judges |
-| RCPIT Shirpur Hackathon | AstraVita – Blood Donor Matching | Completed & presented |
-| YCCE Nagpur Hackathon | CME Detection & Alert System | Completed & presented |
+<div align="center">
+
+| 🥇 | 🏛️ Event | 🔨 Project Built | 🏅 Outcome |
+|:---:|:---|:---|:---:|
+| 🥈 | **SSGMCE Shegaon Hackathon** | 🧥 FitVision — Virtual Try-On Platform | ⭐ Appreciated by Judges |
+| 🏆 | **RCPIT Shirpur Hackathon** | 🩸 AstraVita — Blood Donor Matching | ✅ Completed & Presented |
+| 🚀 | **YCCE Nagpur Hackathon** | 📡 CME Detection & Alert System | ✅ Completed & Presented |
+
+![Hackathons](https://img.shields.io/badge/Hackathons_Attended-3-6C63FF?style=for-the-badge&logo=lightning&logoColor=white)
+![Recognition](https://img.shields.io/badge/Judge_Recognition-1-FF6B6B?style=for-the-badge&logo=trophy&logoColor=white)
+![Projects Shipped](https://img.shields.io/badge/Projects_Shipped-3-2F8D46?style=for-the-badge&logo=rocket&logoColor=white)
+
+</div>
 
 ---
 
