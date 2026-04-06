@@ -18,17 +18,33 @@
 
 ## 🧑‍💻 About Me
 
-```javascript
-const ghanshyam = {
-  role:       "CS Student @ SVKM's College of Engineering, Shirpur",
-  currently:  "Co-Lead & Founding Member @ STARKS Technical Club",
-  building:   ["web apps", "hackathon projects", "developer communities"],
-  languages:  ["JavaScript", "Python", "Java", "C"],
-  tools:      ["MediaPipe", "TensorFlow.js", "Git", "VS Code"],
-  ask_me_about: ["web dev", "hackathons", "DSA", "tech communities"],
-  fun_fact:   "Shipped a working try-on system in 24 hours at a hackathon 🚀"
-};
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 👨‍💻 Who Am I?
+- 🎓 **CS Student** @ SVKM's College of Engineering, Shirpur
+- ⚡ **Co-Lead & Founding Member** @ STARKS Technical Club
+- 🛠️ Building **web apps**, **hackathon projects** & **dev communities**
+- 🌱 Exploring **ML / Computer Vision** as a learner
+- 💬 Ask me about **Web Dev · DSA · Hackathons**
+- 📍 Based in **Shirpur, Maharashtra**
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ Quick Facts
+```text
+🏆  3 Hackathons participated
+🌟  SGPA: 7.9
+🚀  Shipped FitVision in 24 hrs
+🤝  Mentoring juniors @ STARKS
+💡  Always learning, always building
 ```
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -111,16 +127,12 @@ const ghanshyam = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ghanshyammali10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghanshyammali10&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF" height="180"/>
+![Ghanshyam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ghanshyammali10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghanshyammali10&layout=compact&theme=tokyonight&hide_border=true)
 
-<br/>
+![GitHub Streak](https://streak-stats.demolab.com?user=Ghanshyammali10&theme=tokyonight&hide_border=true)
 
-<img src="https://streak-stats.demolab.com?user=Ghanshyammali10&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" width="60%"/>
-
-<br/>
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ghanshyammali10&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FF6B6B)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ghanshyammali10&theme=tokyo-night&hide_border=true)
 
 </div>
 
