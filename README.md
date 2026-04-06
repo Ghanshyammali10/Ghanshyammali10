@@ -18,33 +18,30 @@
 
 ## 🧑‍💻 About Me
 
-<table>
-<tr>
-<td width="50%" valign="top">
+```yaml
+# ghanshyam.config.yaml
 
-### 👨‍💻 Who Am I?
-- 🎓 **CS Student** @ SVKM's College of Engineering, Shirpur
-- ⚡ **Co-Lead & Founding Member** @ STARKS Technical Club
-- 🛠️ Building **web apps**, **hackathon projects** & **dev communities**
-- 🌱 Exploring **ML / Computer Vision** as a learner
-- 💬 Ask me about **Web Dev · DSA · Hackathons**
-- 📍 Based in **Shirpur, Maharashtra**
+identity:
+  name        : Ghanshyam R Mali
+  role        : CS Student → Web Developer → Hackathon Builder
+  location    : Shirpur, Maharashtra 🇮🇳
+  college     : SVKM's College of Engineering
+  sgpa        : 7.9
 
-</td>
-<td width="50%" valign="top">
+currently:
+  position    : Co-Lead & Founding Member @ STARKS Technical Club
+  building    : [ web apps, hackathon projects, dev communities ]
+  learning    : [ ML, Computer Vision, DSA ]
 
-### ⚡ Quick Facts
-```text
-🏆  3 Hackathons participated
-🌟  SGPA: 7.9
-🚀  Shipped FitVision in 24 hrs
-🤝  Mentoring juniors @ STARKS
-💡  Always learning, always building
+passions:
+  - Turning ideas into working products under pressure ⚡
+  - Mentoring peers and growing together 🤝
+  - Writing clean, purposeful code 🧠
+  - Competing at hackathons and winning recognition 🏆
+
+ask_me_about  : [ Web Dev, DSA, Hackathons, Tech Communities ]
+motto         : "Ship fast. Learn from it. Build better." 🚀
 ```
-
-</td>
-</tr>
-</table>
 
 ---
 
