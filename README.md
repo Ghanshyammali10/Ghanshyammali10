@@ -69,18 +69,29 @@ const ghanshyam = {
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow.js-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+**💬 Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+**🌐 Web**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+**🌱 ML / Vision (Exploring)**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow.js-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
+
+**⚙️ Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
@@ -100,11 +111,16 @@ const ghanshyam = {
 
 <div align="center">
 
-![Ghanshyam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ghanshyammali10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Ghanshyammali10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghanshyammali10&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF" height="180"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghanshyammali10&layout=compact&theme=tokyonight&hide_border=true)
+<br/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Ghanshyammali10&theme=tokyonight&hide_border=true)
+<img src="https://streak-stats.demolab.com?user=Ghanshyammali10&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" width="60%"/>
+
+<br/>
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ghanshyammali10&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FF6B6B)
 
 </div>
 
@@ -122,10 +138,25 @@ const ghanshyam = {
 
 <div align="center">
 
-### 💬 Let's connect and build something awesome together!
+---
 
-*"Ship fast. Learn from it. Build better."*
+### 🤝 Let's Connect & Build Together
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ghanshyammali10&color=6C63FF&style=flat-square)
+<p>I'm always open to collaborating on interesting projects, hackathons, or just geeking out about tech!</p>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/codebyghanshyam)
+[![Gmail](https://img.shields.io/badge/Gmail-Drop_a_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ghanshyammali2310@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-Say_Hi-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ghanshyam_mali_2310)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow_Me-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ghanshyam_2310)
+
+<br/>
+
+> *"Ship fast. Learn from it. Build better."*
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Ghanshyammali10&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS)
+
+⭐ **If you like what you see, drop a star on a repo — it means a lot!** ⭐
 
 </div>
