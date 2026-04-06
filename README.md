@@ -132,10 +132,20 @@ motto         : "Ship fast. Learn from it. Build better." 🚀
 
 <div align="center">
 
-![Ghanshyam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ghanshyammali10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ghanshyammali10&layout=compact&theme=tokyonight&hide_border=true)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ghanshyammali10&theme=tokyonight)
+
+<br/>
+
+![Commits & Contributions](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ghanshyammali10&theme=tokyonight)
+![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ghanshyammali10&theme=tokyonight)
+![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ghanshyammali10&theme=tokyonight)
+![Most Active Repos](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ghanshyammali10&theme=tokyonight&utcOffset=5.5)
+
+<br/>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Ghanshyammali10&theme=tokyonight&hide_border=true)
+
+<br/>
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ghanshyammali10&theme=tokyo-night&hide_border=true)
 
